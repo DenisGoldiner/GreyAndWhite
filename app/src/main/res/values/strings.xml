@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Program_1.0</string>
+    <string name="new_game">Новая игра</string>
+    <string name="options">Настройки</string>
+    <string name="item_settings">Настройки</string>
+    <string name="item_about">Об авторе</string>
+    <string name="item_rules">Правила</string>
+
+</resources>

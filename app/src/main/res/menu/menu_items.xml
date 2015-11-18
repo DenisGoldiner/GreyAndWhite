@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="1"
+        android:title="@string/item_settings"
+        android:showAsAction="never" />
+
+    <item
+            android:id="@+id/rules"
+            android:orderInCategory="1"
+            android:title="@string/item_rules"
+            android:icon="@drawable/ic_help"
+            android:showAsAction="never" />
+
+    <item
+            android:id="@+id/about"
+            android:orderInCategory="1"
+            android:title="@string/item_about"
+            android:icon="@android:drawable/ic_menu_more"
+            android:showAsAction="never" />
+
+
+</menu>
